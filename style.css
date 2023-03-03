@@ -24,7 +24,7 @@ body{
 }
 
 #container{
-    height: 420px;
+    height: 520px;
     width: 360px;
     margin: 100px auto;
     background-color: #f7f7f7;
@@ -33,8 +33,7 @@ body{
 }
 
 .tipsForm{
-    padding: 20px;
-    padding-top: 30px;
+    padding: 15px 30px;
 }
 
 .formInput{
@@ -73,4 +72,10 @@ button{
     text-transform: uppercase;
     display: block;
     margin: 50px auto;
+}
+
+#totalTip{
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
 }
